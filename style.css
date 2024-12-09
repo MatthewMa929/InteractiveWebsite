@@ -115,3 +115,17 @@ img {
 	padding: 0.8em;
 	text-align: center;
 }
+
+.ad {
+	width: 40em;
+	height: 20em;
+}
+
+.ad_icon {
+	position: absolute;
+	top: 90vh;
+	left: 32vw;
+	width: 2em;
+	height: 2em;
+	z-index: 12;
+}
