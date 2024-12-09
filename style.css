@@ -122,10 +122,9 @@ img {
 }
 
 .ad_icon {
-	position: absolute;
-	top: 90vh;
-	left: 32vw;
+	position: relative;
 	width: 2em;
 	height: 2em;
+	translate: 0.5em -2.5em;
 	z-index: 12;
 }
