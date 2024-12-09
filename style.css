@@ -68,7 +68,6 @@ img {
 	border: 0.3em solid lightblue;
 	flex-direction: column;
 	background-color: #E1E7EF;
-	box-sizing: border-box;
 }
 
 .center_article_boxes {
